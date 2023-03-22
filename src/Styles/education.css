@@ -1,0 +1,23 @@
+.table {
+  border: none;
+  border-collapse: collapse;
+  border: 1px solid #102048;
+  border-radius: 5px;
+}
+th,
+td {
+  padding: 1rem 1rem !important;
+  font-size: 1rem;
+}
+thead {
+  background: #00b4d8;
+  color: #fff;
+}
+td {
+  font-size: 0.8rem;
+  color: #fff;
+  font-weight: 500;
+}
+tr:nth-child(even) {
+  background: #102048;
+}

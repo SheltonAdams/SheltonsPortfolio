@@ -1,0 +1,48 @@
+span {
+  color: #00b4d8;
+}
+
+.link {
+  color: azure;
+  text-decoration: none;
+}
+section button:hover {
+  background-color: unset;
+  -webkit-transition: 0.5s linear;
+  -o-transition: 0.5s linear;
+  transition: 0.5s linear;
+  color: black;
+}
+.hero-content {
+  width: 100%;
+  height: 1000px;
+  display: flex;
+  padding-top: 100px;
+  flex-direction: column;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 30px;
+  font-weight: 300;
+}
+
+.hero-title {
+  font-weight: 600;
+}
+.img {
+  border-radius: 100px;
+  margin-left: 25%;
+  position: relative;
+  overflow: hidden;
+}
+@media only screen and (max-width: 650px) {
+  .img {
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+  }
+}
+
+.hero-section {
+  padding-top: 100px;
+}

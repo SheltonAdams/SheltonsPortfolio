@@ -1,0 +1,28 @@
+.skills-wrapper {
+  background: #132347;
+  padding: 20px;
+  border-radius: 10px;
+}
+.skill-bar {
+  height: 5px;
+  width: 100%;
+  position: relative;
+  background: #c1ceff;
+  border-radius: 50px;
+  z-index: 999;
+}
+.skill-bar-percentage {
+  background: #00b4d8;
+  height: 5px;
+  position: absolute;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+}
+.skill-title span {
+  color: #fff;
+}
+.skill-title {
+  margin-bottom: 10px;
+}
