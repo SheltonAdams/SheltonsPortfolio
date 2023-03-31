@@ -23,7 +23,7 @@ function Portfolio() {
             My take on a VPN website with sign in page. For portfolio use only
             links purposely do not work within app. Front end practice.
           </h1>
-          <FooterLink href="https://reese-vpn.herokuapp.com/">
+          <FooterLink href="https://sheltonadams.github.io/reesevpn/">
             <img class="gallery-image" src={Img3} alt="Reese VPN" />
           </FooterLink>
         </div>
@@ -34,7 +34,7 @@ function Portfolio() {
             portfolio use only links purpsely do not work within app. Front end
             practice using React.
           </h1>
-          <FooterLink href="https://purple-coin.herokuapp.com/">
+          <FooterLink href="https://sheltonadams.github.io/pcoin/">
             <img class="gallery-image" src={Img2} alt="pCoin" />
           </FooterLink>
         </div>

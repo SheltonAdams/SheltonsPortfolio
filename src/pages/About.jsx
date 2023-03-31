@@ -69,13 +69,12 @@ function About() {
                     <span className="">I'm Shelton Adams</span>
                   </h2>
                   <p>
-                    I'm a results-driven individual with years of study hours
-                    and an associate's degree in computer forensics. To further
-                    my Knowledge of Front-End/Back-End I have completed the App
-                    Brewery's 12-week Boot-Camp course. Taught by Dr. Angela Yu
-                    and 300 + studied hours with Udemy Certifications within the
-                    past year. I am looking to become a valued team member of a
-                    web development team. Let's build{" "}
+                  Current Software Engineering student with 5 years of experience in a technical role and 3 years of experience in a technical management role with a team of 5 employees.
+                  A solid understanding of the full stack life cycle and support on front end, and back end when deploying large scale applications.
+                  Confident in my ability to perform maintainable code, with UI frameworks like React, Vue, and AngularJS.
+                  Experience and understanding of object oriented design, algorithms, and data structures along with knowledge in AWS Services like RDS, Kinesis, EC2, and more.
+                  I am looking to become a valued team member of a
+                  web development team. Let's build{" "}
                     <span>something extraordinary!</span>
                   </p>
                   <div className="social-links">
@@ -91,7 +90,7 @@ function About() {
                       <FacebookIcon />
                     </FooterLink>
 
-                    <FooterLink href="https://linkedin.com/in/sheltonadamsrealty">
+                    <FooterLink href="https://linkedin.com/in/sheltonadamstech/">
                       <LinkedInIcon />
                     </FooterLink>
                   </div>

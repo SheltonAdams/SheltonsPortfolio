@@ -52,8 +52,8 @@ const HeroSection = () => {
                 I'm <span ref={textRef}></span>
               </h2>
               <p>
-                My name is Shelton Adams, and currently, I'm a real estate agent
-                working for Howard Hanna in Corning, NY. I enjoy serving the
+                My name is Shelton Adams, and currently, I'm a Computer Programmer
+                working for UPS remotely. I enjoy serving the
                 local community as a mentor and have a passion for video games
                 and web development.
               </p>

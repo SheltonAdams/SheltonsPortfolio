@@ -13,7 +13,7 @@ function Education() {
       </thead>
       <tbody>
       <tr>
-          <td>BA</td>
+          <td>BS</td>
           <td>Computer Information Systems/Software Programming</td>
           <td>Devry University</td>
           <td>2023-2025</td>
